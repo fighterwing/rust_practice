@@ -1,2 +1,2 @@
-# rust_practice
-rust practice
+# PRACTICE
+ha ha ha
